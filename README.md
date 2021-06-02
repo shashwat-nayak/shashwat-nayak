@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @shashwat-nayak
-- 👀 I’m interested in cp
+- 👀 I’m interested in 
 - 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
